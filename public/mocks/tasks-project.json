@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "exportedAt": "2024-12-06T12:00:00.000Z",
+  "tasks": [
+    {
+      "id": 2001,
+      "title": "Создать дизайн-макеты в Figma",
+      "completed": true,
+      "priority": "high",
+      "createdAt": "2024-11-01T09:00:00.000Z",
+      "updatedAt": "2024-11-10T18:00:00.000Z",
+      "completedAt": "2024-11-10T18:00:00.000Z"
+    },
+    {
+      "id": 2002,
+      "title": "Верстка главной страницы",
+      "completed": true,
+      "priority": "high",
+      "createdAt": "2024-11-11T10:00:00.000Z",
+      "updatedAt": "2024-11-20T16:30:00.000Z",
+      "completedAt": "2024-11-20T16:30:00.000Z"
+    },
+    {
+      "id": 2003,
+      "title": "Интеграция с backend API",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2024-11-21T09:00:00.000Z",
+      "updatedAt": "2024-11-21T09:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2004,
+      "title": "Настройка авторизации",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2024-11-22T14:00:00.000Z",
+      "updatedAt": "2024-11-22T14:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2005,
+      "title": "Добавить валидацию форм",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2024-11-25T11:00:00.000Z",
+      "updatedAt": "2024-11-25T11:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2006,
+      "title": "Локализация интерфейса",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2024-11-28T10:00:00.000Z",
+      "updatedAt": "2024-11-28T10:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2007,
+      "title": "Тестирование на мобильных устройствах",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2024-12-01T09:00:00.000Z",
+      "updatedAt": "2024-12-01T09:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2008,
+      "title": "Оптимизация изображений",
+      "completed": true,
+      "priority": "low",
+      "createdAt": "2024-11-15T15:00:00.000Z",
+      "updatedAt": "2024-11-18T12:00:00.000Z",
+      "completedAt": "2024-11-18T12:00:00.000Z"
+    },
+    {
+      "id": 2009,
+      "title": "Настройка SEO метатегов",
+      "completed": false,
+      "priority": "low",
+      "createdAt": "2024-12-02T10:00:00.000Z",
+      "updatedAt": "2024-12-02T10:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2010,
+      "title": "Подготовка к деплою",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2024-12-05T09:00:00.000Z",
+      "updatedAt": "2024-12-05T09:00:00.000Z",
+      "completedAt": null
+    }
+  ]
+}
+

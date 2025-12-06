@@ -11,6 +11,15 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
+    ActivityFeed: typeof import('./src/components/ActivityFeed/ActivityFeed.vue')['default']
+    ActivityItem: typeof import('./src/components/ActivityItem/ActivityItem.vue')['default']
+    AppHeader: typeof import('./src/components/AppHeader/AppHeader.vue')['default']
+    ImportExport: typeof import('./src/components/ImportExport/ImportExport.vue')['default']
+    TaskEditDialog: typeof import('./src/components/TaskEditDialog/TaskEditDialog.vue')['default']
+    TaskFilters: typeof import('./src/components/TaskFilters/TaskFilters.vue')['default']
+    TaskForm: typeof import('./src/components/TaskForm/TaskForm.vue')['default']
+    TaskItem: typeof import('./src/components/TaskItem/TaskItem.vue')['default']
+    TaskList: typeof import('./src/components/TaskList/TaskList.vue')['default']
+    TaskStats: typeof import('./src/components/TaskStats/TaskStats.vue')['default']
   }
 }

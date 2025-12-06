@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "exportedAt": "2024-12-06T12:00:00.000Z",
+  "tasks": [
+    {
+      "id": 1001,
+      "title": "Настроить CI/CD пайплайн",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2024-12-01T09:00:00.000Z",
+      "updatedAt": "2024-12-01T09:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 1002,
+      "title": "Написать unit-тесты для компонентов",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2024-12-02T10:30:00.000Z",
+      "updatedAt": "2024-12-02T10:30:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 1003,
+      "title": "Оптимизировать производительность",
+      "completed": true,
+      "priority": "medium",
+      "createdAt": "2024-11-28T14:00:00.000Z",
+      "updatedAt": "2024-12-03T16:45:00.000Z",
+      "completedAt": "2024-12-03T16:45:00.000Z"
+    },
+    {
+      "id": 1004,
+      "title": "Добавить документацию API",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2024-12-04T11:00:00.000Z",
+      "updatedAt": "2024-12-04T11:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 1005,
+      "title": "Провести код-ревью",
+      "completed": true,
+      "priority": "low",
+      "createdAt": "2024-11-25T08:00:00.000Z",
+      "updatedAt": "2024-11-27T17:30:00.000Z",
+      "completedAt": "2024-11-27T17:30:00.000Z"
+    },
+    {
+      "id": 1006,
+      "title": "Обновить зависимости проекта",
+      "completed": false,
+      "priority": "low",
+      "createdAt": "2024-12-05T13:15:00.000Z",
+      "updatedAt": "2024-12-05T13:15:00.000Z",
+      "completedAt": null
+    }
+  ]
+}
+

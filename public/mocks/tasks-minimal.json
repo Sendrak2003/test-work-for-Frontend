@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "exportedAt": "2024-12-06T12:00:00.000Z",
+  "tasks": [
+    {
+      "title": "Быстрая задача 1",
+      "priority": "high"
+    },
+    {
+      "title": "Быстрая задача 2",
+      "priority": "medium"
+    },
+    {
+      "title": "Быстрая задача 3",
+      "priority": "low"
+    }
+  ]
+}
+
