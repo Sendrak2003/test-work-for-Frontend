@@ -1,0 +1,2 @@
+export { registerPlugins } from './providers'
+
